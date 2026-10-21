@@ -1,6 +1,6 @@
 cask "rote" do
-  version "1.0.1"
-  sha256 "1e21c1f9b17b95de87674fec1d67ba493f7ee7d850e000a7988c633d1a5f36f9"
+  version "1.0.2"
+  sha256 "1b14549685a6b43b0487b991fa872b989380da7c157d9e7d3a7675944be19983"
 
   url "https://github.com/beyondthecode-bc/Rote/releases/download/v#{version}/Rote-v#{version}.zip"
   name "Rote"
